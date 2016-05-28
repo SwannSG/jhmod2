@@ -1,3 +1,16 @@
 Project Notes
 ==============
 browser-sync start --server --directory --files "*"
+
+**Git
+git clone https://github.com/SwannSG/jhmod2.git
+git checkout gh-pages			// change branch
+git add --all
+git commit --all
+git push https://github.com/SwannSG/jhmod2.git
+
+
+
+
+
+
