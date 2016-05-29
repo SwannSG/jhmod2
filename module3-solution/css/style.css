@@ -5,7 +5,7 @@
     color: #ffffff;
 }
 
-/*change background color of dropdown menu items when we mouse over*/
+/*change background color of dropdown menu items when we mouse over a menu item*/
 #nav-list li a:hover {
     background-color: #0000ff;
     color: #ffffff;
@@ -33,8 +33,8 @@
     background-color: #00fff6;
 }
 
-@media screen and (max-width: 768px) {
-    #second-row {/*slightly increase the left and right margins when mobile*/
+@media screen and (max-width: 767px) {
+    #second-row {/*slightly increase the left and right margins when extra small screen*/
         margin-left:5%;
         margin-right:5%;
     }
